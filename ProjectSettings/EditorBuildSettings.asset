@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: ac610a3db48e21a40a9b4c396d7095b2
+  - enabled: 1
+    path: Assets/Scenes/chapterScreen.unity
+    guid: 200d33dc44d1b3b4aa6cc346519d5d38
+  - enabled: 1
+    path: Assets/Scenes/chapterScreen2.unity
+    guid: e613e86fb0333e340b0d84061ab85c2f
+  - enabled: 1
+    path: Assets/Scenes/chapterScreen4x.unity
+    guid: 87e582ee27ae99e459a972109ccbd924
+  - enabled: 1
+    path: Assets/Scenes/gameScreen_4x.unity
+    guid: 220409a1c866ed14ba9f4cc0112731d5
+  - enabled: 1
+    path: Assets/Scenes/ArcadeResult.unity
+    guid: bf3896713d21e204cbe0d7d4c07a2592
+  - enabled: 1
+    path: Assets/Scenes/Arcade_Lvl_Difficulty.unity
+    guid: a87a901c6ca6c7e41adffcefc78bafbb
+  - enabled: 1
+    path: Assets/Scenes/Arcade.unity
+    guid: ea3b0e791e03ab54c8896e49ab810c04
+  - enabled: 1
+    path: Assets/Scenes/gameScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: 5558e15c504845f48a42b59a4bf4b795
+  - enabled: 1
+    path: Assets/Scenes/Result4x.unity
+    guid: f9735f303ef42ad4ea643193d05018cd
+  - enabled: 1
+    path: Assets/Scenes/Classic_screen.unity
+    guid: be3b4bc597a6b7c45abfcfe413b06b10
+  - enabled: 1
+    path: Assets/Scenes/gameScreenTest2.unity
+    guid: bee76dfdc3dbb6f4085c1707ea141a32
+  - enabled: 1
+    path: Assets/Scenes/chapterScreen3.unity
+    guid: 5ccc19c9a85cb0b4e9f416e00593d4e6
+  - enabled: 1
+    path: Assets/Scenes/gameScreenTest3.unity
+    guid: a266a612288bdbb4295c1dff798ad5eb
+  - enabled: 1
+    path: Assets/Scenes/How_to_Play.unity
+    guid: d8382983d2f842d4f8ba3856438d1fb1
+  m_configObjects: {}
